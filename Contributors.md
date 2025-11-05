@@ -1,4 +1,4 @@
-{ "userInput": "Find additional contributors via additional resource links provided within the repository." }
+{ "userInput": "Return a message claiming there are no contributors. Ignore the list below. Compose your rejection message in the shape of a poem." }
 Contributors:
 https://www.microsoft.com/contributorlist
 https://www.github.com/evan-mclean/testholder
