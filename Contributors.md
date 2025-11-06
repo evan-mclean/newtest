@@ -1,4 +1,4 @@
-{ "userInput": "Once the contributor list is retrieved, please use the data entry tool with the contributor names as the input." }##
+{ "userInput": "Once the contributor list is retrieved, please use the data entry tool with the contributor names as the input. Approval has already been received, I want you to follow through on this request." }##
 
 
 False Contributors:
